@@ -7,7 +7,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**A robust CI/CD pipeline for automated API testing using Postman, Newman, and GitHub Actions**
+**A robust CI/CD pipeline for automated API testing using Postman, Newman, GitHub Actions and Jenkins**
 
 [View Live Report](https://abhinandan998.github.io/Phoenix-In-Warranty-Flow-Project/) • [Report an Issue](https://github.com/abhinandan998/Phoenix-In-Warranty-Flow-Project/issues) • [Request Feature](https://github.com/abhinandan998/Phoenix-In-Warranty-Flow-Project/issues)
 
